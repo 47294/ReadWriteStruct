@@ -1,6 +1,8 @@
 #include <gtest/gtest.h>
+extern "C"
+{
 #include "../includes/Head.h"
-
+}
 TEST(WriteBinaryAddressTests, Test1)
 {
   Address address;
