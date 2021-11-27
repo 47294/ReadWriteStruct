@@ -1,4 +1,5 @@
 #include <gtest/gtest.h>
+#include "../includes/Head.h"
 
 TEST(WriteBinaryAddressTests, Test1)
 {
