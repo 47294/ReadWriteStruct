@@ -1,5 +1,6 @@
 #include <stdbool.h>
 #include <stdio.h>
+#include "../includes/Head.h"
 
 #define CITY_LENGTH 30
 #define STREET_LENGTH 50
